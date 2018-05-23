@@ -1,5 +1,5 @@
 # site title
-title: Rock.Y
+title: Rock.Y📓网志
 
 # user name or organization name
 user: RockYuan
@@ -8,7 +8,7 @@ user: RockYuan
 repository: gitBlog
 
 # multi-author
-authors: Rock.Y
+authors: RockYuan
 
 # token
 # token should be separated by '#'
@@ -16,7 +16,7 @@ authors: Rock.Y
 token: 5#5a5bf23651adc9db676919108104c9a059c9001
 
 # posts per page
-perpage: 10
+perpage: 8
 
 
 # advance config
