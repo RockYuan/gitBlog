@@ -1,0 +1,30 @@
+# site title
+title: Rock.Y
+
+# user name or organization name
+user: RockYuan
+
+# issue repository
+repository: rockyuan.github.io
+
+# multi-author
+authors: Rock.Y
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 5#5a5bf23651adc9db676919108104c9a059c9001
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
